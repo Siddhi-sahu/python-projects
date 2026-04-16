@@ -1,6 +1,7 @@
 import requests 
 from datetime import datetime
 
+#deactivated key btw
 user_api = "d5d2be7dae1912e48d2cbf55ba4471bd"
 location = input("Enter the city name: ")
 
